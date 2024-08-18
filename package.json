@@ -8,7 +8,7 @@
     "name": "Eman Herawy"
   },
  "engines": { "node": "20.x" ,
-    "npm": "6.13.4"
+    "npm": "10.8.2"  
   },
   "repository": {
     "type": "git",
